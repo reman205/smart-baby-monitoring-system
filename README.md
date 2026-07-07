@@ -10,16 +10,7 @@ AI-powered baby monitoring system designed to enhance child safety through intel
 This project was independently designed and developed as part of an AI Bootcamp challenge.
 
 ---
-
-## 👩‍💻 My Responsibilities
-
-- Designed the executive dashboard UI
-- Developed the frontend using HTML, CSS, and JavaScript
-- Designed the AI dashboard layout and user experience
-- Organized project structure and documentation
-- Published the project using GitHub Pages
   
-
 ## 🌐 Live Demo
 
 (Add GitHub Pages link here)
