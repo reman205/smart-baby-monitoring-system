@@ -1,4 +1,7 @@
 # 👶 Nra AI Baby Monitor
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+
+![Project Type](https://img.shields.io/badge/Type-Team%20Project-blue)
 
 AI-powered baby monitoring system designed to enhance child safety through intelligent monitoring, behavior analysis, and instant parent notifications.
 
