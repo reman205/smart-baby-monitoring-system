@@ -6,13 +6,6 @@
 AI-powered baby monitoring system designed to enhance child safety through intelligent monitoring, behavior analysis, and instant parent notifications.
 
 ---
-## 👤 Project Type
-
-**Individual Project**
-
-This project was independently designed and developed as part of an AI Bootcamp challenge.
-
----
   
 ## 🌐 Live Demo
 
