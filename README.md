@@ -1,6 +1,6 @@
-# 👶 Smart Baby Monitoring System
+# 👶 Nra AI Baby Monitor
 
-AI-powered smart baby monitoring system designed to improve child safety through intelligent monitoring, behavior analysis, and real-time danger detection.
+AI-powered baby monitoring system designed to enhance child safety through intelligent monitoring, behavior analysis, and instant parent notifications.
 
 ---
 
@@ -10,20 +10,28 @@ AI-powered smart baby monitoring system designed to improve child safety through
 
 ---
 
+## 📸 Preview
+
+![Nra AI Baby Monitor](assets/screenshots/home.png)
+
+---
+
 ## 📖 Overview
 
-The Smart Baby Monitoring System combines Artificial Intelligence, Computer Vision, and Smart Home technologies to continuously monitor a child, detect dangerous situations, analyze behavior, and immediately notify parents.
+Nra AI Baby Monitor is an intelligent monitoring system that combines Artificial Intelligence and Computer Vision to continuously monitor a child, detect dangerous situations, analyze behavior, and notify parents in real time.
+
+The project focuses on creating a safer home environment by providing smart monitoring, automated alerts, and activity reporting.
 
 ---
 
 ## ✨ Features
 
-- 👶 Real-time baby monitoring
-- 🤖 AI behavior analysis
-- ⚠️ Danger detection
-- 📱 Instant parent alerts
-- 🏠 Smart home integration
-- 📊 Activity reports
+- 📹 Live Monitoring
+- 🤖 AI Behavior Analysis
+- ⚠️ Danger Detection
+- 🔔 Instant Parent Alerts
+- 🏠 Smart Home Integration
+- 📊 Activity Reports
 
 ---
 
@@ -35,27 +43,21 @@ The Smart Baby Monitoring System combines Artificial Intelligence, Computer Visi
 
 ---
 
-## 📸 Preview
-
-(Add screenshots here)
-
----
-
 ## 🚀 Future Improvements
 
-- Live camera integration
+- Live camera streaming
 - AI emotion recognition
 - Cry detection
-- Sleep quality analysis
+- Sleep analysis
 - Mobile application
 - Cloud database
-- AI health recommendations
+- AI-powered health recommendations
 
 ---
 
 ## 👩‍💻 Author
 
-Reman Hussam Ghawanni
+**Reman Hussam Ghawanni**
 
 Artificial Intelligence Student
 
