@@ -62,6 +62,10 @@ The project focuses on creating a safer home environment by providing smart moni
 
 ---
 
+## 📚 Academic Context
+
+This project was developed as part of coursework and demonstrates practical application of Artificial Intelligence and Software Engineering concepts.
+
 ## 👩‍💻 Author
 
 **Reman Hussam Ghawanni**
